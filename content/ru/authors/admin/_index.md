@@ -36,62 +36,70 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+  - Финансовые технологии (FinTech)  
+  - Аналитика данных  
+  - Искусственный интеллект в бизнесе  
+  - Управление продуктами  
+  - Маркетинг и digital-реклама  
 
 education:
-  - area: Student
-    institution: RUDN
-    date_start: 2024-09-01
-    date_end: 2028-05-31
-    summary: 
-      
-work:
-  - position: Student
-    company_name: RUDN
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
-    summary: 
+  - area: Student  
+    institution: RUDN  
+    date_start: 2024-09-01  
+    date_end: 2028-05-31  
+    summary: Студентка направления "Бизнес-информатика". Интересуюсь цифровыми технологиями и их применением в бизнесе, анализом данных и автоматизацией бизнес-процессов.  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+work:
+  - position: Student  
+    company_name: RUDN  
+    company_url: ''  
+    company_logo: ''  
+    date_start: 2024-09-01  
+    date_end: ''  
+    summary: Участвую в студенческих проектах, связанных с анализом данных, цифровыми технологиями и разработкой бизнес-решений.  
+
+# Skills  
+# Add your own SVG icons to assets/media/icons/  
 skills:
-  - name: Хард скиллы
+  - name: Хард скиллы  
     items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: SQL  
+        description: Основы работы с базами данных, написание запросов.  
+        percent: 65  
+        icon: database  
+      - name: Python  
+        description: Анализ данных, автоматизация задач.  
+        percent: 70  
+        icon: code-bracket  
+      - name: Excel & Google Sheets  
+        description: Работа с формулами, сводными таблицами, анализ данных.  
+        percent: 85  
+        icon: table-cells  
+      - name: Digital Marketing  
+        description: Основы таргетированной рекламы и SEO.  
+        percent: 50  
+        icon: chart-bar  
+  - name: Хобби  
+    color: '#eeac02'  
+    color_border: '#f0bf23'  
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+      - name: Фотография  
+        description: Люблю снимать пейзажи и портреты.  
+        percent: 75  
+      - name: Бег  
+        description: Участвую в марафонах и тренировках на выносливость.  
+        percent: 90  
+      - name: Настольные игры  
+        description: Увлекаюсь стратегическими играми и квизами.  
+        percent: 80  
 
 languages:
-  - name: Русский
-    percent: 100
-  - name: Английский
-    percent: 60
+  - name: Русский  
+    percent: 100  
+  - name: Английский  
+    percent: 70  
+  - name: Немецкий  
+    percent: 40  
 
 # Awards.
 #   Add/remove as many awards below as you like.
